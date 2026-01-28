@@ -27,7 +27,8 @@
 
 ### 🛠 Tools & Platforms
 <p>
- <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,intellij,maven" />
+ <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" />
 </p>
 
 ---
