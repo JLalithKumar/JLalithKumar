@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalith Kumar</h1>
+<h1 align="center">Hi 👋, I'm Lalith Kumar J</h1>
 <h3 align="center">Full-Stack Developer | Java • Spring Boot • MERN</h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,maven" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,intellij,maven" />
 </p>
 
 ---
