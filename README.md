@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  ⭐ Consistently building. Continuously improving.
+  🚀 Consistently building. Continuously improving.
 </p>
