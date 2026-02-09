@@ -2,9 +2,10 @@
 <h3 align="center">🚀 Full-Stack Developer | Java • Spring Boot • MERN Stack</h3>
 
 <p align="center">
- I design and develop scalable backend systems and high-performance full-stack applications.<br/>
-Focused on clean architecture, RESTful API design, and intuitive, responsive user experiences.
+  Passionate about building scalable backend systems and modern web applications.<br/>
+  Focused on clean architecture, RESTful APIs, and responsive UI design.
 </p>
+
 
 <p align="center">
   📫 <a href="mailto:lalithkumarjakanathan@gmail.com">Email</a> •
@@ -39,14 +40,17 @@ Focused on clean architecture, RESTful API design, and intuitive, responsive use
 
 ---
 
-## 💡 What I Build
+## 📊 Developer Focus
 
-- 🔹 Backend APIs & Microservices  
-- 🔹 Full-Stack Web Apps (Spring Boot + React)  
-- 🔹 Scalable and Clean Architecture  
-- 🔹 Database Driven Projects  
-
+- 🔹 Scalable REST API Development  
+- 🔹 Backend Architecture & Clean Code  
+- 🔹 Full-Stack Application Development  
+- 🔹 Database Design & Optimization
+  
 ---
 
+<p align="center">
+  🚀 Consistently building. Continuously improving.
+</p>
 
 Thanks for visiting! 🚀
