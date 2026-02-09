@@ -52,5 +52,3 @@
 <p align="center">
   🚀 Consistently building. Continuously improving.
 </p>
-
-Thanks for visiting! 🚀
