@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lalith Kumar J</h1>
-<h3 align="center">🚀 Full-Stack Developer | Java • Spring Boot • MERN Stack</h3>
+<h1 align="center">Hi, I'm Lalith Kumar J</h1>
+<h3 align="center"> Full-Stack Developer | Java • Spring Boot • MERN Stack</h3>
 
 <p align="center">
   Passionate about building scalable backend systems and modern web applications.<br/>
