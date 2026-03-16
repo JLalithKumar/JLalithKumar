@@ -42,10 +42,10 @@
 
 ## 📊 Developer Focus
 
-- 🔹 Scalable REST API Development  
-- 🔹 Backend Architecture & Clean Code  
-- 🔹 Full-Stack Application Development  
-- 🔹 Database Design & Optimization
+🔹 Scalable REST API Development  
+🔹 Backend Architecture & Clean Code  
+🔹 Full-Stack Application Development  
+🔹 Database Design & Optimization
   
 ---
 
