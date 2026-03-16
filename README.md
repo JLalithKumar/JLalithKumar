@@ -10,7 +10,7 @@
 <p align="center">
   📫 <a href="mailto:lalithkumarjakanathan@gmail.com">Email</a> •
   🔗 <a href="https://linkedin.com/in/lalith-kumar-jakanathan">LinkedIn</a> •
-  💻 <a href="https://github.com/JLalithKumar">GitHub</a>
+  💻 <a href="https://leetcode.com/u/J_lalithkumar_18/">LeetCode</a>
 </p>
 
 ---
