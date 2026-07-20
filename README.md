@@ -18,7 +18,7 @@
 
 ### ☁️ DevOps & Cloud Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,argo,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,argocd,prometheus,grafana" />
 </p>
 
 ### 💻 Backend  
