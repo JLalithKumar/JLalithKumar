@@ -18,7 +18,8 @@
 
 ### ☁️ DevOps & Cloud Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,argocd,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,prometheus,grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48" style="vertical-align: middle; margin-left: 6px;" alt="ArgoCD" />
 </p>
 
 ### 💻 Backend  
@@ -39,7 +40,7 @@
 ### 🧰 Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" style="vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" style="vertical-align: middle; margin-left: 6px;" alt="IntelliJ" />
 </p>
 
 ---
