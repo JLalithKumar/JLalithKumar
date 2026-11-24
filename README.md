@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm Lalith Kumar J 👋</h1>
-<h3 align="center">Full-Stack & DevOps Engineer | Java • Spring Boot • Cloud & Kubernetes</h3>
+# Hi, I'm Lalith Kumar J 👋
+
+<h3 align="center">Cloud & DevOps Engineer | AWS • Kubernetes • Docker • Terraform • CI/CD</h3>
 
 <p align="center">
-  Passionate about building scalable microservices, automated CI/CD pipelines, and modern web applications.<br/>
-  Focused on clean architecture, cloud infrastructure (AWS), Kubernetes, and end-to-end DevOps automation.
+  Passionate about building scalable cloud infrastructure, automating deployment workflows, and managing reliable cloud-native environments.<br/>
+  Focused on AWS, Kubernetes, Infrastructure as Code, CI/CD automation, and cloud operations.
 </p>
 
 <p align="center">
@@ -16,45 +17,64 @@
 
 ## 🛠 Tech Stack
 
-### ☁️ DevOps & Cloud Infrastructure
+### ☁️ Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+### ⚙️ DevOps & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,linux,git,github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48" style="vertical-align: middle; margin-left: 6px;" alt="ArgoCD" />
 </p>
 
-### 💻 Backend  
+### 📊 Monitoring & Observability
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-### 🗄 Databases  
+### 💻 Programming & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,spring,fastapi,nodejs,express" />
+</p>
+
+### 🗄 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
 </p>
 
-### 🧰 Tools & Platforms  
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven,linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" style="vertical-align: middle; margin-left: 6px;" alt="IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,maven,idea" />
 </p>
 
 ---
 
-## 📊 Developer & DevOps Focus
+## 📊 Cloud & DevOps Focus
 
-🔹 **Cloud & IaC Automation:** Infrastructure provisioning with Terraform, AWS, Docker & Kubernetes  
-🔹 **GitOps & CI/CD Pipelines:** Automated build, test, and deployment using GitHub Actions & ArgoCD  
-🔹 **Scalable Backend Systems:** Microservices architecture using Java Spring Boot 3 & Python FastAPI  
-🔹 **Full-Stack Web Apps:** Responsive frontend development using React 18, TypeScript & Tailwind CSS  
-🔹 **Observability & Monitoring:** System metrics scraping & visual dashboarding with Prometheus & Grafana  
+🔹 **Cloud Infrastructure:** AWS services including EC2, EKS, ECR, S3, IAM, VPC, RDS, Lambda and CloudWatch.
+
+🔹 **Infrastructure as Code:** Infrastructure provisioning and automation using Terraform, Helm and Kubernetes manifests.
+
+🔹 **Containerization & Orchestration:** Docker, Kubernetes, Amazon EKS, container management and deployment automation.
+
+🔹 **CI/CD & GitOps:** Automated build, testing and deployment pipelines using GitHub Actions, Jenkins and ArgoCD.
+
+🔹 **Monitoring & Observability:** Infrastructure and application monitoring using Prometheus, Grafana and AWS CloudWatch.
+
+🔹 **Linux & Networking:** Linux administration, TCP/IP, DNS, HTTP/HTTPS, VPC networking and load balancing.
+
+🔹 **Backend Development:** Java, Spring Boot, Python and FastAPI for building scalable backend services and APIs.
+
+🔹 **Full-Stack Development:** React, TypeScript, JavaScript and database integration with PostgreSQL, MySQL and MongoDB.
 
 ---
 
 <p align="center">
-  🚀 Building scalable systems. Automating everything. Continuously improving.
+  🚀 Automating Infrastructure. Building on Cloud. Delivering Reliable Systems.
 </p>
